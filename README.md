@@ -2,7 +2,6 @@
 
 A fully on-chain game built on Solana. SolanaCiv is inspired by Civilization games. In SolanaCiv, players manage their civilization by building cities, farming resources, recruiting units, researching new technologies, trading with each other, and fighting off barbarians. The game is turn-based. Players can perform many actions (transactions) per turn: move units, build, fight, upgrade, research and more.
 
-Demo: https://solciv.com
 
 #### Audit
 Program is audited by sec3 X-ray scanner. Report is available here: [sec3-report.pdf](./sec3-report.pdf)
